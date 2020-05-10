@@ -1,0 +1,19 @@
+Dear Punit Jha,
+
+So Hirata, the PI of Predictive Computing of Advanced Materials and Ices, has requested that you receive access to the Blue Waters system in association with his/her project.
+
+Please follow the link provided in this message to complete the Blue Waters account application and Blue Waters terms of use.
+
+To access Blue Waters, 2-factor Duo authentication will be used, which is accessed from your mobile phone.
+
+To help you prepare for the questions you will be asked and the information you will need to provide, a PDF of the questions can be found here: https://bluewaters.ncsa.illinois.edu/new_account/bwprojectalloc/docs/user_account_summary.pdf and the Blue Waters Terms of Use can be found here: https://bluewaters.ncsa.illinois.edu/terms-of-use.
+
+Project and account application:
+If you already have an NCSA login, register with https://identity.ncsa.illinois.edu/join/6TG79A9VKY
+If you dot not already have an NCSA login and need to create one, register with https://identity.ncsa.illinois.edu/register/6TG79A9VKY
+If you believe you have received this message in error or you have problems accessing the link, contact help+bw@ncsa.illinois.edu
+
+Note: Your organization's policies may require authorization in order to proceed. Please contact your organization's head of research programs, senior officer responsible for export and trade control compliance, or other applicable official if you are not authorized to make the following assertions or to accept the Blue Waters system terms of use or if you have questions about your organization's policies.
+
+Sincerely,
+Blue Waters Account Management
