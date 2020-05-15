@@ -1,3 +1,3 @@
-1 Support Vector Machines
+1. Support Vector Machines
 
-2 Spam Classification
+2. Spam Classification
