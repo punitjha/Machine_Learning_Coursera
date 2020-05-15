@@ -1,5 +1,5 @@
-1 Neural Networks
+1. Neural Networks
 
-2 Backpropagation
+2. Backpropagation
 
-3 Visualizing the hidden layer
+3. Visualizing the hidden layer
